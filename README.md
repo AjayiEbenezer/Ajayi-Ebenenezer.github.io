@@ -2,7 +2,7 @@
 <img align="left" width="100" height="100" src="https://github.com/AjayiEbenezer/AjayiEbenezer.github.io/blob/main/ebe.png">
 <br>
 <br>
-[Resume/CV]
+[CV](https://github.com/AjayiEbenezer/AjayiEbenezer.github.io/blob/main/NvidagrantCV.pdf)
 <br>
 <br/>
 
